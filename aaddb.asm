@@ -1,5 +1,5 @@
 ;; Chuong trinh cong 2 so a & b
-;; a va b la so co 1 chu so
+;; a va b la so co 1 chu 
 
 .Model Small
 .Stack 100h
